@@ -1,0 +1,15 @@
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\bin\Debug\Integrador - Biblioteca.exe.config
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\bin\Debug\Integrador - Biblioteca.exe
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\bin\Debug\Integrador - Biblioteca.pdb
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador - Biblioteca.csproj.AssemblyReference.cache
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.Menu.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.Properties.Resources.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador - Biblioteca.csproj.GenerateResource.cache
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador - Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador - Biblioteca.exe
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador - Biblioteca.pdb
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.Libros.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.ModificarLibro.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.CrearLibro.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.Autores.resources
+C:\Users\facuj\Desktop\Facultad\Base de Datos\TP Integrador\Integrador - Biblioteca\obj\Debug\Integrador___Biblioteca.Editoriales.resources
